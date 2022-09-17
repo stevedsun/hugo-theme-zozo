@@ -202,7 +202,7 @@ hr {
 }
 
 .post {
-  background-color: #ffffff;
+  background-color: #f7f7f7;
   margin-top: 20px;
 }
 
@@ -620,7 +620,7 @@ a.back_to_top:hover span {
     top: 60px;
     padding: 10px 0;
     width: 100%;
-    background-color: #ffffff;
+    background-color: #f7f7f7;
     -webkit-box-shadow: 0 10px 20px 0 rgba(236, 236, 236, 0.86);
             box-shadow: 0 10px 20px 0 rgba(236, 236, 236, 0.86);
   }
